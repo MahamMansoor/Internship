@@ -12,3 +12,20 @@ User input handling
  Using arithmetic operators
  Applying string methods like .find() and slicing
  Implementing conditional logic (e.g., avoiding division by zero
+
+ Task 3: 
+Input Handling: Take a sentence from the user.
+ 
+List Operations:
+Split the sentence into a list of words using .split().
+Display the list of words.
+
+String Rebuilding:
+Rejoin the list into a sentence using ' - ' as a separator via .join().
+Display the new sentence.
+
+Tuple Usage:
+Store your first and last name in a tuple.
+Print each part (first and last name) using indexing.
+
+
