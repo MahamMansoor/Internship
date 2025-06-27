@@ -28,4 +28,17 @@ Tuple Usage:
 Store your first and last name in a tuple.
 Print each part (first and last name) using indexing.
 
+Task 4:
+
+Tuples (Immutable Data Structures):
+Learn how to store fixed student IDs using a tuple, which cannot be changed once created.
+
+Sets (Handling Unique Items):
+Practice using sets to manage a list of unique course names — allowing dynamic addition/removal without duplicates.
+
+Code Readability (Using Comments):
+Learn how to write clean and maintainable code by adding meaningful inline comments for each logic block.
+
+
+
 
