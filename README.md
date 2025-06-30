@@ -41,4 +41,18 @@ Learn how to write clean and maintainable code by adding meaningful inline comme
 
 
 
+Task 05 :
+
+Learn how to define and call functions with clear input and output.
+Use lists of tuples to organize grade and credit hour data.
+Apply dictionaries for grade-to-GPA point conversion.
+Implement weighted average logic for GPA computation.
+Practice input validation and user interaction via input().
+Use named parameters for flexibility and readability.
+Produce clean, formatted output using print() and round().
+
+
+
+
+
 
