@@ -51,6 +51,14 @@ Practice input validation and user interaction via input().
 Use named parameters for flexibility and readability.
 Produce clean, formatted output using print() and round().
 
+Task 06:
+
+Learn how to use Boolean expressions and comparison operators to check score ranges.
+Create a function to convert a numeric score (0–100) into a letter grade (e.g., A, B+, F).
+Validate user input to ensure scores are within the valid range.
+Display a clear summary using formatted output like:
+"Student Maham scored 97.5 → Grade: A-"
+
 
 
 
