@@ -59,6 +59,15 @@ Validate user input to ensure scores are within the valid range.
 Display a clear summary using formatted output like:
 "Student Maham scored 97.5 → Grade: A-"
 
+Task 7:
+
+Key Learning Goals:
+Practice using for, while, and nested loops
+Learn how to use enumerate() to access both index and value during iteration
+Perform manual computation of statistical values (sum, average, min, max)
+Use sorted() function to sort a list
+Avoid using built-in helpers like sum(), min(), or max() for calculations
+
 
 
 
