@@ -68,6 +68,17 @@ Perform manual computation of statistical values (sum, average, min, max)
 Use sorted() function to sort a list
 Avoid using built-in helpers like sum(), min(), or max() for calculations
 
+Task 8:
+
+Understand how to store and access nested data structures in Python using dictionaries.
+
+Practice user input handling and validation.
+
+Implement conditional logic to manage different operations.
+
+Create a loop-based interactive menu for continuous usage.
+
+Enhance your program with real-world features like name normalization and email validation.
 
 
 
